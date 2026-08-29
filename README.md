@@ -7,8 +7,8 @@ English translation project for the PSP game Rezel Cross.
 - 🟢 Translation: 100%
 - 🟡 Hacking: 100%
 - 🟢 Graphics: 100%
-- 🔴 Testing: Chapter 10 freeze!! need to be fix!
-
+-  🔴 Testing: Frozen at Chapter 10 — Bug under investigation.
+-  
 ## About
 
 English translation project for the [PSP] version.
