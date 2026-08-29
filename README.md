@@ -21,8 +21,6 @@ English translation project for the [PSP] version.
 
 ## Screenshots
 
-## Screenshots
-
 <p align="center">
   <img src="screenshots/2.jpg" width="45%">
   <img src="screenshots/5.jpg" width="45%">
