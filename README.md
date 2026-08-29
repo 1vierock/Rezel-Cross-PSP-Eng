@@ -21,13 +21,17 @@ English translation project for the [PSP] version.
 
 ## Screenshots
 
-![Screenshot 1](screenshots/screenshot1.jpg)
+## Screenshots
 
-![Screenshot 2](screenshots/screenshot2.jpg)
+<p align="center">
+  <img src="screenshots/Tuto.jpg" width="45%">
+  <img src="screenshots/SHIROKI MAJO_1-260829-072418.png" width="45%">
+</p>
 
-![Screenshot 3](screenshots/screenshot3.jpg)
-
-![Screenshot 4](screenshots/screenshot4.jpg)
+<p align="center">
+  <img src="screenshots/SHIROKI MAJO_1-260829-072540.png" width="45%">
+  <img src="screenshots/SHIROKI MAJO_1-260829-072500.png" width="45%">
+</p>
 
 ## Credits
 
