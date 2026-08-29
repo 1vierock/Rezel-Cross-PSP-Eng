@@ -22,13 +22,13 @@ English translation project for the [PSP] version.
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/2.jpg" width="45%">
-  <img src="screenshots/5.jpg" width="45%">
+  <img src="screenshot/2.jpg" width="45%">
+  <img src="screenshot/5.jpg" width="45%">
 </p>
 
 <p align="center">
-  <img src="screenshots/6.jpg" width="45%">
-  <img src="screenshots/1.jpg" width="45%">
+  <img src="screenshot/6.jpg" width="45%">
+  <img src="screenshot/1.jpg" width="45%">
 </p>
 
 ## Credits
