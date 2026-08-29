@@ -24,13 +24,13 @@ English translation project for the [PSP] version.
 ## Screenshots
 
 <p align="center">
-  <img src="screenshots/Tuto.jpg" width="45%">
-  <img src="screenshots/SHIROKI MAJO_1-260829-072418.png" width="45%">
+  <img src="screenshots/2.jpg" width="45%">
+  <img src="screenshots/5.jpg" width="45%">
 </p>
 
 <p align="center">
-  <img src="screenshots/SHIROKI MAJO_1-260829-072540.png" width="45%">
-  <img src="screenshots/SHIROKI MAJO_1-260829-072500.png" width="45%">
+  <img src="screenshots/6.jpg" width="45%">
+  <img src="screenshots/1.jpg" width="45%">
 </p>
 
 ## Credits
