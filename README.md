@@ -7,7 +7,7 @@ English translation project for the PSP game **Rezel Cross**.
 * 🟢 Translation: 100%
 * 🟡 Hacking: 100%
 * 🟢 Graphics: 100%
-* 🔴 Testing: Frozen at Chapter 10 — Bug under investigation.
+* 🔴 Testing: I fixed the Chapter 10 !
 
 ## About
 
@@ -54,8 +54,8 @@ If you enjoy my translation projects and would like to support my work:
 * Translation & Hacking: 1vierock
 
 ## Changelog
-
-### v0.4
+**Fixed chapter 10 (bluescreen)
+### v0.5
 
 * English translation completed
 * Hacking completed
